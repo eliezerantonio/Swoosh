@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Swoosh</string>
+    <string name="imagem_do_fundo">Imagem do fundo</string>
+    <string name="logotipo">Logotipo</string>
+    <string name="botao_proximo">Proximo</string>
+    <string name="togle_cod_ed">cod-ed</string>
+    <string name="cod_ed">Mista</string>
+    <string name="toggle_mulheres">Mulheres</string>
+    <string name="botao_homens">Homens</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="toggle_homens">Homens</string>
+    <string name="homens">Homens</string>
+    <string name="mulheres">Mulheres</string>
+    <string name="togglebuttonoff">ToggleButton</string>
+    <string name="togglebuttonon">ToggleButton</string>
+    <string name="botao_terminar">Terminar</string>
+    <string name="imagem_fundo">TODO</string>
+    <string name="baller_toggle">Baller</string>
+    <string name="novato_novato">Novato</string>
+    <string name="novatoToggle_off" translatable="false">Novato</string>
+    <string name="logotipoSkill">TODO</string>
+    <string name="search_league">Looking for a co-ed begginner league near you...</string>
+    <string name="desired_league" translatable="false">Liga Desejada:</string>
+    <string name="i_am_a_txt" translatable="false">Eu sou:</string>
+    <string name="ballerToglgeOn">Experiente</string>
+</resources>
